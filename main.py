@@ -34,4 +34,4 @@ while continuar == "si":
     
 ##Si el usuario deside no seguir jugando, finaliza el juego ##
     if continuar == "no":
-        print("Salir del juego")
+        print("Salir del juego")  
